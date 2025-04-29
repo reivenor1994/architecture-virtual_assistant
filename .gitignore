@@ -8,3 +8,6 @@
 /dataSources.local.xml
 
 /.idea/
+/.rasa/
+/models/
+/rasa_env/
